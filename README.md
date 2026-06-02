@@ -62,4 +62,4 @@ This project provided practical knowledge about digital circuit design, VHDL pro
 
 #OUTPUT
 
-"https://github.com/user-attachments/assets/52b9624f-689f-4857-b382-20d01b0aa696"
+https://github.com/user-attachments/assets/52b9624f-689f-4857-b382-20d01b0aa696
